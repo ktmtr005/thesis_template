@@ -22,6 +22,7 @@ Typst で卒業論文や修士論文を執筆するためのテンプレート�
   - 明朝体 / セリフ: `Liberation Serif`, `Noto Serif CJK JP`
   - ゴシック体 / サンセリフ: `Liberation Sans`, `Noto Sans CJK JP`
   ※お使いの環境に合わせて `template.typ` 内で変更可能です。
+- VSCodeを使っているなら、Tinymist拡張機能でもTypstを導入できます。
 
 ---
 
